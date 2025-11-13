@@ -1,0 +1,5 @@
+{
+  "name": "RAG Chatbot",
+  "description": "A chatbot powered by the Gemini API that answers questions based on the content of your uploaded PDF, Word, or Excel documents. This app demonstrates Retrieval-Augmented Generation (RAG) by using your documents as a knowledge base.",
+  "requestFramePermissions": []
+}
